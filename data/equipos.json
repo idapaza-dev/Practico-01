@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "codigo": "EQ-OSC-001",
+    "nombre": "Osciloscopio Tektronix",
+    "laboratorioId": 1,
+    "estado": "disponible"
+  },
+  {
+    "id": 2,
+    "codigo": "EQ-3D-001",
+    "nombre": "Impresora 3D Creality",
+    "laboratorioId": 1,
+    "estado": "mantenimiento"
+  },
+  {
+    "id": 3,
+    "codigo": "EQ-PC-001",
+    "nombre": "PC Laboratorio Informática",
+    "laboratorioId": 2,
+    "estado": "disponible"
+  }
+]

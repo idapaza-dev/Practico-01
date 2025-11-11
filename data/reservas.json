@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "laboratorioId": 1,
+    "responsable": "Grupo de Robótica",
+    "inicio": "2025-11-20T09:00:00.000Z",
+    "fin": "2025-11-20T11:00:00.000Z",
+    "estado": "confirmada",
+    "descripcion": "Práctica de sensores"
+  }
+]

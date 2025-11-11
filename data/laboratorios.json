@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laboratorio de Electrónica",
+    "ubicacion": "Edificio A - Piso 2",
+    "capacidad": 30,
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Laboratorio de Informática",
+    "ubicacion": "Edificio B - Piso 1",
+    "capacidad": 40,
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Lab Nuevo",
+    "ubicacion": "Piso 3",
+    "capacidad": 25,
+    "activo": true
+  }
+]

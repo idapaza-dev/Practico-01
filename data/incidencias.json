@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "equipoId": 2,
+    "tipo": "mantenimiento",
+    "prioridad": "media",
+    "descripcion": "La impresora 3D no calienta el extrusor correctamente.",
+    "fecha": "2025-11-01T10:00:00.000Z",
+    "estado": "abierta"
+  }
+]
